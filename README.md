@@ -13,6 +13,7 @@
 </ul>
 
 ## Download my resume Here!
+<a href="https://drive.google.com/file/d/1qC-UHeschL1KFxrn4QijHT2W-WmFWS-s/view?usp=sharing">![Google Drive](https://img.shields.io/badge/Resume%20[in%20English]-333333?logo=googledrive&logoColor=09b04e)</a>
 <a href="https://drive.google.com/file/d/1_oFz2Ma-ASEiC2cHi2NWtIbWM2IjQCEI/view?usp=sharing">![Google Drive](https://img.shields.io/badge/Resume%20[in%20Spanish]-333333?logo=googledrive&logoColor=09b04e)</a>
 
 ## My Links
