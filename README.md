@@ -2,11 +2,11 @@
 <h2>Frontend Developer :computer: UI/UX Design 🎨</h2>
 
 ### About me
-<i>I'm a 36 years old Software Engineer from Santiago, Chile. I'm a Javascript Frontend developer specialized in React JS. I have been working for 2 years in the area. I love Frontend Design and actually I'm specializing in UI/UX and React Native development.</i>
+<i>I'm a 36 years old Software Engineer from Santiago, Chile. I'm a Javascript Frontend developer specialized in React JS. I have been working for 2 years in the area. I love Frontend Design and actually I'm specializing in Python and AI.</i>
 
 <h2>✔️ A Few Quick Facts</h2>
 <ul>
-  <li>:keyboard: I'm currently creating an E-commerce site and an App to find professional services</li>
+  <li>:keyboard: I'm currently working as study analyst at a University</li>
   <li>:octocat: I'm a GitHub Foundations Certified</li>
   <li>:iphone: Learning and specializing in UI/UX, Figma and React Native</li>
   <li>:speaking_head: I'm a native spanish speaker, but I can speak English  </li>
