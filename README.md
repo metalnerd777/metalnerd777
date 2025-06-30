@@ -1,5 +1,5 @@
 <h1> Hi there! I'm Juan Andrés Parra <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Frontend Developer :computer: UI/UX Design 🎨</h2>
+<h2>Frontend Developer :computer: Computer Engineer</h2>
 
 ### About me
 <i>I'm a 36 years old Software Engineer from Santiago, Chile. I'm a Javascript Frontend developer specialized in React JS. I have been working for 2 years in the area. I love Frontend Design and actually I'm specializing in Python and AI.</i>
