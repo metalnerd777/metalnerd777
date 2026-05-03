@@ -2,14 +2,15 @@
 <h2>Frontend Developer :computer: Computer Engineer</h2>
 
 ### About me
-<i>I'm a 36 years old Software Engineer from Santiago, Chile. I'm a Javascript Frontend developer specialized in React JS. I have been working for 2 years in the area. I love Frontend Design and actually I'm specializing in Python and AI.</i>
+<i>I'm a 36 years old Software Engineer from Santiago, Chile. I'm a Javascript Frontend developer specialized in React JS. I have been working as data analist but now I'm creating a mobile app. 
+I love Frontend Design and actually I'm specializing in React Native, Python and AI.</i>
 
 <h2>✔️ A Few Quick Facts</h2>
 <ul>
-  <li>:keyboard: I'm currently working as study analyst at a University</li>
+  <li>:iphone: I'm creating a React Native app</li>
+  <li>:keyboard: I was working as study/data analyst at a University</li>
   <li>:octocat: I'm a GitHub Foundations Certified</li>
-  <li>:iphone: Learning and specializing in UI/UX, Figma and React Native</li>
-  <li>:speaking_head: I'm a native spanish speaker, but I can speak English  </li>
+  <li>:speaking_head: I'm a native spanish speaker, but I can speak English too </li>
 </ul>
 
 ## Download my resume Here!
@@ -20,7 +21,7 @@
 <a href="https://www.linkedin.com/in/juan-andres-pm/">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 <a href="mailto:juanparra1988@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
 <a href="https://x.com/skogardraugur">![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)</a>
-<a href="https://bsky.app/profile/skogardraugur.bsky.social">![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)</a>
+
 <!-- 
 <a href="https://t.me/juanandrespm">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)</a>
 -->
